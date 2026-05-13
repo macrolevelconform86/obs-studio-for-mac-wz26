@@ -1,4 +1,4 @@
-# 
+# Enhance OBS Studio for macOS with automatic OBS Studio for macOS Addon | cloud-sync + batch-rendering, the #1 addon. Includes cloud-sync and batch-rendering for a smoother and
 
 
 
